@@ -97,8 +97,8 @@ There is a clear need for a user-friendly, low-cost, educational solution to pro
 ## 🏆 Team Portfolio & Achievements
 
 Our team has prior experience in impactful tech solutions:
-- 🔌 **Smart Home Automation System**
-- 🚨 **Rakshak: Emergency SOS Communication Device**
+- 🔌 **Smart Home Automation System. https://github.com/PrakashHamirwasia/SmartControl-with-Alexa**
+- 🚨 **Rakshak: Emergency SOS Communication Device. https://github.com/PrakashHamirwasia/Rakshak**
 - 📡 **Universal Infrared Remote**
 - 🧠 **RoboVision with VR Integration**
 - ⛅ **Weather Station**
